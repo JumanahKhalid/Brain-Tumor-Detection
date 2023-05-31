@@ -40,6 +40,8 @@ implementation 'org.tensorflow:tensorflow-lite-metadata:0.1.0'
 ## 6. Languages
 * Python to build the Model in CoLab platform.
 * Java to build the App in Android Studio.
+
+## 7. Poster
 ![App poster of interfaces ](https://github.com/JumanahKhalid/Brain-Tumor-Detection/assets/110771258/0acedec0-a44c-48a5-9520-d1543c9f18bf)
 
 
