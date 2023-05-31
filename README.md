@@ -1,4 +1,4 @@
-# Brain Tumor Detection Mobile Application..
+# Brain Tumor Detection Mobile Application.
 ## 1. Project Description
 Diagnosing a brain tumor takes a long time and relies heavily on the radiologist’s abilities and experience. The amount of data that must be handled has increased dramatically as the number of patients has increased, making old procedures both costly and ineffective. Deep Learning (DL) approaches have recently been popular in developing automated systems capable of accurately diagnosing or segmenting brain tumors in less time. The proposed Brain Tumor Classification Model  in our project based on CNN,Where the disease can be detected through magnetic resonance imaging by showing the result of the output yes or no to the user and we want to confirm that it is considered a preliminary examination and the patient must be referred to the specialist doctor for other necessary examinations. Finally we hope it will be a useful project for users and developers.
 
